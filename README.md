@@ -1,37 +1,44 @@
-<div align="center">
+# 👋 Hi, I'm Argeswara Pradana K  
 
-# 👋 Hi, I'm Jaya  
-### 💻 IT Enthusiast
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/username)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/username)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:yourmail@gmail.com)
-
-</div>
+🎯 **Fullstack Web Developer | Java & PHP Enthusiast | Tech Student at POLIJE**  
+💡 Passionate about building efficient systems and clean UI/UX design.  
+🚀 Currently exploring modern stacks like **Laravel**, **Kotlin**, and **React**.
 
 ---
 
-## 🧠 About Me  
-Just learner.  
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayabelajar&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayabelajar&layout=compact&theme=tokyonight" height="150">
-</p>
+### 🧑‍💻 About Me
+- 🎓 Informatics Engineering Student at Politeknik Negeri Jember (PSDKU Sidoarjo)
+- 🔭 Working on: Student Attendance & Permission System (Java Desktop)
+- 🌱 Learning: REST API Integration & Clean Architecture
+- 🛠️ Interested in: Software Quality, Database Design, and Networking
 
 ---
 
-## 📫 Let’s Connect!
-💼 [LinkedIn](https://linkedin.com/in/jykusuma)  
-📧 [jayakusuma.dev@gmail.com](mailto:jayakusuma.dev@@gmail.com)  
-📸 [Instagram](https://instagram.com/jayadev.id)  
+### ⚙️ Tech Stack
+**Languages:**  
+`Java` `PHP` `Kotlin` `JavaScript` `HTML` `CSS` `SQL`
+
+**Frameworks & Tools:**  
+`Laravel` `Java Swing` `Android Studio` `NetBeans` `XAMPP` `Git` `Figma`
 
 ---
 
-> "Code is art when it solves real human problems."  
-> — Jaya
+### 📊 GitHub Stats
+![Arges' GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
 ---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arges_Prk-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/USERNAME)  
+[![Instagram](https://img.shields.io/badge/Instagram-@arges.yt-purple?style=flat-square&logo=instagram)](https://instagram.com/arges.yt)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=flat-square&logo=firefox)](#)
+
+---
+
+### 🧠 Fun Fact
+> “Code is like humor — when you have to explain it, it’s bad.” 😄
+
+---
+
