@@ -7,10 +7,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Informatics Engineering Student at Politeknik Negeri Jember (PSDKU Sidoarjo)
-- 🔭 Working on: Student Attendance & Permission System (Java Desktop)
+- 🎓 Informatics Engineering Student at Politeknik Negeri Jember
+- 🔭 Instership on: Hasan Jufri Islamic Institute  (Web and Android Developer)
 - 🌱 Learning: REST API Integration & Clean Architecture
-- 🛠️ Interested in: Software Quality, Database Design, and Networking
+- 🛠️ Interested in: Software Development, Database Design, and Networking
 
 ---
 
